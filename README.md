@@ -21,38 +21,37 @@ The website is designed to be visually appealing and user-friendly, and is fully
 * Clone the repository:
   ```bash
   git clone https://github.com/GibsonWaheire/Photography_site.git
-Navigate to the project directory.
+  
+## Setup/Installation Requirements
 
-Open the index.html file in any modern web browser.
+* Navigate to the project directory.
+* Open the `index.html` file in any modern web browser.
+* No server or database setup is required.
+* No additional dependencies are required. This is a simple HTML/CSS project.
 
-No server or database setup is required.
+## Known Bugs
 
-No additional dependencies are required. This is a simple HTML/CSS project.
+* No known bugs at the moment.
+* If you discover any, feel free to contact me or raise an issue on the repository.
 
-Known Bugs
-No known bugs at the moment.
+## Technologies Used
 
-If you discover any, feel free to contact me or raise an issue on the repository.
+* HTML5
+* CSS3
+* Git & GitHub for version control
+* GitHub Pages for deployment
+* VSCode as the development environment
+* Manual design planning included in the `/design/` folder
 
-Technologies Used
-HTML5
+## Support and contact details
 
-CSS3
-
-Git & GitHub for version control
-
-GitHub Pages for deployment
-
-VSCode as the development environment
-
-Manual design planning included in the /design/ folder
-
-Support and contact details
 If you run into any issues, or have questions, suggestions, or contributions:
 
-Email: gibsonwaheire@gmail.com
+* Email: gibsonwaheire@gmail.com
+* GitHub Issues: [Open an issue](https://github.com/GibsonWaheire/Photography_site/issues)
 
-GitHub Issues: Open an issue
+## License
 
-License
-This project is free to use and for educational purposes. Copyright (c) 2025 Gibson Waheire Giteru
+*This project is free to use and for educational purposes.*
+
+Copyright (c) 2025 **Gibson Waheire Giteru**
