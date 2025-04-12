@@ -1,83 +1,62 @@
-# Design Document: Photography Portfolio Website
+# Design Plan for Photography Portfolio Website
 
-## Project Overview
+## Project Objective
 
-This design document outlines the planning and structure for the Photography Portfolio website by **Gibson Waheire Giteru**.
-
-The website is a personal project to showcase photography skills and practice HTML, CSS, and GitHub Pages deployment.
+The goal of this website is to showcase a collection of photographs using clean, accessible, and responsive design built with HTML and CSS. The website includes sections such as navigation, a featured favorites list, a full gallery, and a personal biography.
 
 ---
 
-## Layout Structure
+## Layout and Structure
 
-The site consists of the following sections:
+The layout was planned to include the following sections:
 
-1. **Navigation Bar**
-   - Fixed at the top for easy access.
-   - Links: Home, About, Services, Contact.
+1. **Navigation Bar**  
+   Fixed to the top, links to Home, About, Services, and Contact.  
+   Simple horizontal flex layout with hover effects.
 
-2. **Header**
-   - Main title and introduction message.
-   - Positioned below the navigation.
+2. **Header Section**  
+   Contains the website's headline and a short description.  
+   Centered both vertically and horizontally using flexbox.
 
-3. **Favorite Photos Section**
-   - Unordered list of selected favorite images.
-   - Consistent image sizes using `object-fit: cover`.
+3. **Favorite Photos Section**  
+   Displays a list of favorite photos with equal size thumbnails and captions.  
+   Styled using object-fit and grid/flex layout for responsiveness.
 
-4. **Gallery Section**
-   - Full collection of images.
-   - Flexbox layout for responsive grid.
+4. **Gallery Section**  
+   Grid layout to display all photos. Each image has a title and uniform styling.
 
-5. **Biography Section**
-   - Profile photo and personal description.
-   - Emphasis on storytelling and purpose of the site.
+5. **Biography Section**  
+   Two-column layout with profile image and a short paragraph using `<strong>` and `<em>`.
 
 ---
 
-## Color Scheme & Typography
+## Visual Design Choices
 
-- **Background:** Light neutral tones for simplicity (`#fdfdfd`, `#fafafa`).
-- **Text:** Dark grey (`#333`), secondary text (`#666`).
-- **Nav Bar:** Black background with white text.
-- **Font:** Arial, sans-serif for clean readability.
-- **Headings:** Bold and clear.
-- **Emphasis Tags:** `<strong>` and `<em>` used for keywords.
-
----
-
-## CSS Framework & Techniques
-
-- No external frameworks used — plain CSS3.
-- Responsive design using **Flexbox**.
-- CSS Box Model, pseudo-classes for hover effects.
-- Consistent spacing with **rem** units.
-- Responsive images using `object-fit` and controlled widths.
-- Simple media queries for mobile optimization.
+- **Font:** Arial, sans-serif (simple, readable)
+- **Color scheme:**  
+  - Backgrounds: white / light gray  
+  - Navigation bar: black with white text  
+  - Accent: soft borders and hover color
+- **Spacing:** Consistent padding and margins using rem units
+- **Image Styling:** `object-fit: cover` for consistent aspect ratios
+- **Responsiveness:** Uses media queries and flex-wrap to adapt for mobile screens
 
 ---
 
-## Wireframe Concept (Text Version)
+## Frameworks, Methodologies, and Concepts Used
 
-
----
-
-## Tools Used for Design
-
-- **VSCode** for development and layout planning.
-- **Git & GitHub** for version control and deployment.
-- **Manual sketching and text-based wireframe** for layout planning.
-- **GitHub Pages** for final website hosting.
+- **Box Model** — to manage spacing and alignment.
+- **CSS Flexbox** — used for navigation, header centering, and photo layouts.
+- **Semantic HTML** — using tags like `<section>`, `<header>`, `<nav>`, and `<footer>`.
+- **Responsive Design Principles** — images, containers, and text scale properly on all screen sizes.
+- **Pseudoclasses** — `a:hover` for nav links and image interactions.
+- **Custom Styling** — implemented manually using pure CSS without any external frameworks.
 
 ---
 
-## Final Notes
+## Tools Used
 
-This design was created before development to guide the structure and ensure a consistent, professional result.  
-The design supports future improvements such as:
-- Adding a contact form
-- Expanding gallery categories
-- Enhancing mobile responsiveness
-
----
-
-*Document prepared by Gibson Waheire Giteru, April 2025.*
+- VSCode
+- Git + GitHub
+- GitHub Pages
+- Markdown for documentation
