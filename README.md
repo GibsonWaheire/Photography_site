@@ -1,52 +1,58 @@
-
-
 # Photography Portfolio Website
-
-### Created by: Gibson Waheire Giteru
+#### A personal photography portfolio website to showcase images and practice web development, April 2025
+#### By **Gibson Waheire Giteru**
 
 ## Description
 
-This is a simple and elegant photography website created as part of my developer learning journey.  
-The goal of this project is to showcase beautiful photographs and demonstrate fundamental web development skills, including:
+This project is a personal photography portfolio website built to practice HTML, CSS, and Git/GitHub deployment.  
+The purpose of this application is to display a curated selection of favorite photos, a full gallery, and provide a short biography of the creator.
 
-- Navigation bar
-- Favorite photos section (with list)
-- Gallery of photography work
-- Short biography about the website
+Features include:
+- Clean navigation bar
+- Favorite photos section (with uniform image sizes)
+- Full gallery of photographs
+- Biography section describing the purpose of the site
 - Custom CSS styling (box model, background color, font family, pseudo-classes, overflow, borders, block elements, font weight, font style)
 
-> _"Photography is a way of feeling, touching, and of loving. What you have caught on film is captured forever. It remembers the little things, long after you have forgotten everything."_
+The website is designed to be visually appealing and user-friendly, and is fully deployed on GitHub Pages for public viewing.
 
-## Design
+## Setup/Installation Requirements
 
-The project was designed before development.
+* Clone the repository:
+  ```bash
+  git clone https://github.com/GibsonWaheire/Photography_site.git
+Navigate to the project directory.
 
-- Wireframe and design details can be found in the `/design/` folder.
-- The design outlines layout decisions, color scheme, and responsive behavior.
+Open the index.html file in any modern web browser.
 
-## Technologies Used
+No server or database setup is required.
 
-- HTML5
-- CSS3
-- VSCode
-- Git & GitHub
-- GitHub Pages for deployment
+No additional dependencies are required. This is a simple HTML/CSS project.
 
-## Setup Instructions
+Known Bugs
+No known bugs at the moment.
 
-1. Clone this repository:
-   ```bash
-   git clone:
-   ```
+If you discover any, feel free to contact me or raise an issue on the repository.
 
-```
+Technologies Used
+HTML5
 
-```
+CSS3
+
+Git & GitHub for version control
+
+GitHub Pages for deployment
+
+VSCode as the development environment
+
+Manual design planning included in the /design/ folder
+
+Support and contact details
+If you run into any issues, or have questions, suggestions, or contributions:
+
+Email: gibsonwaheire@gmail.com
+
+GitHub Issues: Open an issue
 
 License
-This project is licensed under the MIT License.
-
-© 2025 [Gibson Waheire Giteru]. All rights reserved.
-=======
-# Photography_site
->>>>>>> c8955fe000eaa8f3dc20ef21ac6a0659cf85ae31
+This project is free to use and for educational purposes. Copyright (c) 2025 Gibson Waheire Giteru
