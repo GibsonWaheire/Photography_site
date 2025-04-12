@@ -1,3 +1,5 @@
+
+
 # Photography Portfolio Website
 
 ### Created by: Gibson Waheire Giteru
@@ -45,3 +47,6 @@ License
 This project is licensed under the MIT License.
 
 © 2025 [Gibson Waheire Giteru]. All rights reserved.
+=======
+# Photography_site
+>>>>>>> c8955fe000eaa8f3dc20ef21ac6a0659cf85ae31
