@@ -21,7 +21,7 @@ The website is designed to be visually appealing and user-friendly, and is fully
 * Clone the repository:
   ```bash
   git clone https://github.com/GibsonWaheire/Photography_site.git
-  
+
 ## Setup/Installation Requirements
 
 * Navigate to the project directory.
